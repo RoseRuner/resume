@@ -1,4 +1,4 @@
-# **林敏润的工作简历**
+# <center>林敏润的工作简历</center>
 
 #### 联系方式
 
@@ -17,16 +17,15 @@
 
 #### 软件技能
 
-* 熟悉Java语言编程，熟练使用集合框架并理解其原理，理解多线程编程；熟悉J2EE技术中的Servlet、Filter与Interceptor技术。
+* 熟悉Java语言编程，熟练使用集合框架并理解其原理，理解多线程编程
+* 熟悉J2EE技术中的Servlet、Filter与Interceptor技术
 * 熟悉JSP、JavaScript基础技术
 * 熟悉Spring、SpringMVC、SpringBoot、Mybatis框架，了解过 Struts 2、Hibernate框架
 * 熟悉MySQL数据库的使用，并理解事务与索引原理
 * 熟悉使用Eclipse集成开发环境与Visual Studio Code编辑器
 * 会使用Maven项目管理及自动构建工具与Git版本控制工具
 
-#### 开发经历
-
-#### 北京师范大学珠海学院 （ 2016年9月 ~ Today ）
+#### 在校开发经历
 
 ##### 活动总台 (Vue)
 * 在该项目中，我主要负责前端方面的开发任务，与后台完成对接实现功能点。
@@ -52,8 +51,8 @@
 
 #### 开源项目和作品（个人）
 
-* [秒杀系统](https://github.com/RoseRuner/Seckill)：商品秒杀系统
-https://github.com/RoseRuner/Seckill
+* 秒杀系统（[https://github.com/RoseRuner/Seckill](https://github.com/RoseRuner/Seckill)）：商品秒杀系统
+
 
 - - -
 
